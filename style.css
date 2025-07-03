@@ -1,0 +1,14 @@
+/*title {
+  font-style: italic;
+}*/
+
+.bio {
+  font-style: italic;
+  text-align: justify;
+}
+.content {
+  margin-top: 60px;
+  margin-right: 150px;
+  margin-bottom: 15px;
+  margin-left: 50px;
+}
